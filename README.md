@@ -1,7 +1,7 @@
 FAMOUS CLOCK
 ===
 
-#This web page will display famous London Landmark - Big Ben Clock. 
+##This web page will display famous London Landmark - Big Ben Clock. 
 ---
 
 ###Ideas for this project:
@@ -13,5 +13,9 @@ FAMOUS CLOCK
 
 ---
 
-![alt text](https://en.wikipedia.org/wiki/Big_Ben#/media/File:Big_Ben_Clock_Face.jpg "Big Ben dial")
+![490px-big_ben_clock_face](https://cloud.githubusercontent.com/assets/14163823/20949043/31c56568-bc0f-11e6-88c4-e1ef3846788f.jpg)
+
+---
+
+######Image: By © User:Colin / Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35619683
 
