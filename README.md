@@ -12,9 +12,9 @@ FAMOUS CLOCK
 * The web page to look nicely in all devices, especially to be used for a desk clock display on a tablet (iPad, Amazon Fire, etc.).
 
 ---
-
+<p align="center">
 ![490px-big_ben_clock_face](https://cloud.githubusercontent.com/assets/14163823/20949043/31c56568-bc0f-11e6-88c4-e1ef3846788f.jpg)
-
+</p>
 ---
 
 ######Image: By © User:Colin / Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35619683
