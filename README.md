@@ -1,5 +1,5 @@
 FAMOUS CLOCK
-===
+---
 
 ##This web page will display famous London Landmark - Big Ben Clock. 
 ---
@@ -9,7 +9,8 @@ FAMOUS CLOCK
 * The design to be the Big Ben dial.
 * The background change depending on the time of day.
 * The graphics to be created only with CSS (images converted to CSS).
-* The web page to look nicely in all devices, especially to be used for a desk clock display on a tablet (iPad, Amazon Fire, etc.).
+* The web page to look nicely in all devices, especially to be used for a desk clock display on a tablet (iPad, Kindle Fire, etc.).
+* Chime sounds to be played like in the real Big Ben. Westminster Quarters: https://en.wikipedia.org/wiki/Westminster_Quarters
 
 ---
 <p align="center">
