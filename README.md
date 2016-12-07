@@ -13,7 +13,7 @@ FAMOUS CLOCK
 
 ---
 <p align="center">
-![490px-big_ben_clock_face](https://cloud.githubusercontent.com/assets/14163823/20949043/31c56568-bc0f-11e6-88c4-e1ef3846788f.jpg)
+<img src="https://cloud.githubusercontent.com/assets/14163823/20949043/31c56568-bc0f-11e6-88c4-e1ef3846788f.jpg"/>
 </p>
 ---
 
