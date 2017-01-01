@@ -11,6 +11,7 @@ FAMOUS CLOCK
 * The graphics to be created only with CSS (images converted to CSS).
 * The web page to look nicely in all devices, especially to be used for a desk clock display on a tablet (iPad, Kindle Fire, etc.).
 * Chime sounds to be played like in the real Big Ben. Westminster Quarters: https://en.wikipedia.org/wiki/Westminster_Quarters
+* Graphics: http://www.shutterstock.com/pic-121521253?dclid=CPTitYLJ8tACFQU3cgodG7gAjQ&tcr=Image&tpl=CRITEOUK-UK
 
 ---
 <p align="center">
